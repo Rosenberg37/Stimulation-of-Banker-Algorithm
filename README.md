@@ -1,3 +1,2 @@
-# operatingSystemClassDesign
-## Operating system class design for Banker Algorithm
-Just a git test.
+# README
+Just a operating system class design.
